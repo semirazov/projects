@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.seventimes.deque.DequeImplTest" tests="21" skipped="0" failures="0" errors="0" timestamp="2019-04-22T06:33:52" hostname="DSEMIRAZ-M-50J0" time="0.008">
+  <properties/>
+  <testcase name="removeFirstTest" classname="com.seventimes.deque.DequeImplTest" time="0.001"/>
+  <testcase name="addLastWithNullObjectTest" classname="com.seventimes.deque.DequeImplTest" time="0.0"/>
+  <testcase name="addLastIncrementSizeTest" classname="com.seventimes.deque.DequeImplTest" time="0.0"/>
+  <testcase name="addFirstIncrementSizeTest" classname="com.seventimes.deque.DequeImplTest" time="0.0"/>
+  <testcase name="removeFirstFromEmptyQueueTest" classname="com.seventimes.deque.DequeImplTest" time="0.001"/>
+  <testcase name="removeLastFromEmptyQueueTest" classname="com.seventimes.deque.DequeImplTest" time="0.0"/>
+  <testcase name="isEmptyTest" classname="com.seventimes.deque.DequeImplTest" time="0.0"/>
+  <testcase name="iteratorDoesNotSupportRemoveTest" classname="com.seventimes.deque.DequeImplTest" time="0.001"/>
+  <testcase name="addFirstTest" classname="com.seventimes.deque.DequeImplTest" time="0.0"/>
+  <testcase name="addFirstInANonEmptyQueueTest" classname="com.seventimes.deque.DequeImplTest" time="0.0"/>
+  <testcase name="iteratorNextThrowsOnEmptyDequeTest" classname="com.seventimes.deque.DequeImplTest" time="0.001"/>
+  <testcase name="removeFirstDecrementSizeTest" classname="com.seventimes.deque.DequeImplTest" time="0.0"/>
+  <testcase name="sizeTest" classname="com.seventimes.deque.DequeImplTest" time="0.0"/>
+  <testcase name="addLastInANonEmptyQueueTest" classname="com.seventimes.deque.DequeImplTest" time="0.0"/>
+  <testcase name="removeLastDecrementSizeTest" classname="com.seventimes.deque.DequeImplTest" time="0.0"/>
+  <testcase name="removeLastTest" classname="com.seventimes.deque.DequeImplTest" time="0.0"/>
+  <testcase name="addFirstWithNullObjectTest" classname="com.seventimes.deque.DequeImplTest" time="0.0"/>
+  <testcase name="iteratorHasNextTest" classname="com.seventimes.deque.DequeImplTest" time="0.0"/>
+  <testcase name="emptyDequeConstructorTest" classname="com.seventimes.deque.DequeImplTest" time="0.0"/>
+  <testcase name="addLastTest" classname="com.seventimes.deque.DequeImplTest" time="0.0"/>
+  <testcase name="iteratorTraversesInOrderTest" classname="com.seventimes.deque.DequeImplTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

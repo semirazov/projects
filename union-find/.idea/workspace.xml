@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72e33920-44fc-4d62-ba87-5fba495acb26" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>createComponent</find>
+      <find>48</find>
+      <find>[0]</find>
+      <find>toStrin</find>
+      <find>[0</find>
+      <find>QuickFind</find>
+      <find>(&quot;.*?)(\})</find>
+      <find>Rough</find>
+      <find>[1, 52, 85, 72, 12]</find>
+      <find>[35, 36, 5, 88, 9, 90, 77, 14, 78]</find>
+      <find>[43]</find>
+      <find>stream()</find>
+      <find>[1, 65, 67, 6, 9, 73, 10, 13, 78, 18, 85, 24, 88, 26, 90, 30, 31, 95, 98, 36, 39, 45, 49, 50, 53, 54, 56, 58, 60, 61, 63]</find>
+      <find>[0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 17, 20, 22, 23, 25, 26, 28, 29, 30, 31, 32, 33, 36, 38, 39, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 53, 54, 57, 58, 59, 60, 61, 62, 63, 64, 66, 67, 68, 69, 70, 71, 72, 74, 75, 77, 78, 79, 80, 81, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99]</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>QuickUnion</replace>
+      <replace>$1]</replace>
+      <replace>QuickUnio</replace>
+      <replace>parallelStream()</replace>
+    </replaceStrings>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectId" id="1Pox8VKeRPtRBrP2H7YR51BZrrt" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553181032642" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.29441202" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.seven.uf.alorithms" />
+      <recent name="com.seven.uf.structure" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.seven.uf.alorithms" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Visualize">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.seven.uf.Main" />
+      <module name="union-find" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.seven.uf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.seven.uf.MainTime" />
+      <module name="union-find" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.seven.uf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Visualize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.seven.uf.Visualize" />
+      <module name="union-find" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.seven.uf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickUnionUFTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="union-find" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.seven.uf.alorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.seven.uf.alorithms" />
+      <option name="MAIN_CLASS_NAME" value="com.seven.uf.alorithms.QuickUnionUFTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickUnionUFTest.testUnion1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="union-find" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.seven.uf.alorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.seven.uf.alorithms" />
+      <option name="MAIN_CLASS_NAME" value="com.seven.uf.alorithms.QuickUnionUFTest" />
+      <option name="METHOD_NAME" value="testUnion1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Visualize" />
+        <item itemvalue="Application.MainTime" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.QuickUnionUFTest" />
+        <item itemvalue="JUnit.QuickUnionUFTest.testUnion1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72e33920-44fc-4d62-ba87-5fba495acb26" name="Default Changelist" comment="" />
+      <created>1552898364488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552898364488</updated>
+      <workItem from="1552898368369" duration="6320000" />
+      <workItem from="1553089024515" duration="12987000" />
+      <workItem from="1553160605860" duration="32000" />
+      <workItem from="1553179729879" duration="1041000" />
+      <workItem from="1560105012971" duration="1133000" />
+      <workItem from="1560264076749" duration="233000" />
+      <workItem from="1560329787354" duration="161000" />
+      <workItem from="1560436279080" duration="368000" />
+      <workItem from="1561038661849" duration="1457000" />
+      <workItem from="1563657183246" duration="626000" />
+      <workItem from="1563785132997" duration="37000" />
+      <workItem from="1563793184185" duration="191000" />
+      <workItem from="1564858872191" duration="1759000" />
+      <workItem from="1564996862347" duration="16000" />
+      <workItem from="1565700035942" duration="40000" />
+      <workItem from="1566499783232" duration="1816000" />
+      <workItem from="1566554095800" duration="223000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="QuickFindUFTest_testUnion1 - 2019.03.20 at 16h 23m 20s.xml">
+      <configuration name="QuickFindUFTest.testUnion1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuickFindUFTest_testUnion1 - 2019.03.20 at 16h 23m 32s.xml">
+      <configuration name="QuickFindUFTest.testUnion1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RoughUFTest - 2019.03.20 at 16h 53m 25s.xml">
+      <configuration name="RoughUFTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuickFindUFTest - 2019.03.20 at 17h 11m 07s.xml">
+      <configuration name="QuickFindUFTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuickFindUFTest - 2019.03.20 at 17h 11m 44s.xml">
+      <configuration name="QuickFindUFTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuickUnionUFTest_testConnected - 2019.03.20 at 17h 27m 12s.xml">
+      <configuration name="QuickUnionUFTest.testConnected" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuickUnionUFTest_testInit - 2019.03.20 at 17h 29m 43s.xml">
+      <configuration name="QuickUnionUFTest.testInit" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuickUnionUFTest_testUnion1 - 2019.03.20 at 17h 29m 47s.xml">
+      <configuration name="QuickUnionUFTest.testUnion1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuickUnionUFTest - 2019.03.20 at 17h 30m 28s.xml">
+      <configuration name="QuickUnionUFTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuickUnionUFTest - 2019.03.20 at 17h 31m 36s.xml">
+      <configuration name="QuickUnionUFTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/seven/uf/MainTime.java</url>
+          <line>3</line>
+          <properties class="com.seven.uf.MainTime" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>d</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>tree</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>tree.toArray()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(Integer[])tree.toArray()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(int[])tree.toArray()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>tree.toArray().toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>uf.getUnionList().toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29441202" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>union-find</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29441202" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29441202" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.seventimes.stack.ArrayStackTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-04-07T19:14:20" hostname="DSEMIRAZ-M-50J0" time="0.004">
+  <properties/>
+  <testcase name="test2" classname="com.seventimes.stack.ArrayStackTest" time="0.004"/>
+  <system-out><![CDATA[Resize capacity: 2
+Resize capacity: 4
+Resize capacity: 8
+Resize capacity: 16
+Resize capacity: 8
+Resize capacity: 4
+Resize capacity: 2
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
