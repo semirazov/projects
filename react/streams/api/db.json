@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "New Stream",
+      "description": "description new",
+      "id": 4
+    },
+    {
+      "title": "Stream of another User",
+      "description": "Stream of another user description",
+      "userId": "110908690657844818342",
+      "id": 5
+    },
+    {
+      "title": "New Refactor",
+      "description": "descripasdfstion",
+      "id": 6
+    },
+    {
+      "title": "New Title",
+      "description": "reuse",
+      "userId": "101609736021093388869",
+      "id": 8
+    },
+    {
+      "title": "New Stream",
+      "description": "112312",
+      "userId": "101609736021093388869",
+      "id": 9
+    }
+  ]
+}

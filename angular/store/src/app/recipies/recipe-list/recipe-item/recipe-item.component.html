@@ -1,0 +1,14 @@
+<div class="d-flex align-items-start justify-content-between">
+  <div>
+    <h5>{{ recipe.name }}</h5>
+    <p>{{ recipe.description }}</p>
+  </div>
+  <span>
+    <img
+      [src]="recipe.imagePath"
+      alt=""
+      class="img-responsive"
+      style="max-width: 100px;"
+    />
+  </span>
+</div>

@@ -1,0 +1,20 @@
+<div class="row">
+  <div class="col-12">
+    <button class="btn btn-success">New Recipe</button>
+  </div>
+</div>
+<div class="row">
+  <div class="col-12">
+    <ul class="list-group">
+      <a
+        *ngFor="let recipe of recipes"
+        href="#"
+        class="list-group-item list-group-item-action"
+        [ngClass]="{ active: selectedRecipe === recipe }"
+        (click)="selectRecipe(recipe)"
+      >
+        <app-recipe-item [recipe]="recipe"></app-recipe-item>
+      </a>
+    </ul>
+  </div>
+</div>

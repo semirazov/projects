@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/scss/bootstrap.scss';
+@import 'assets/sass/now-ui-kit/variables';
+
+.dropdown-toggle {
+  cursor: pointer;
+}
+.dropdown-item {
+  cursor: pointer;
+}
+
+.sidebar-collapse .navbar-collapse:before {
+  background: $brand-primary !important;
+}
+
+.list-group-item {
+  transition: background-color 0.1s ease-in, border-color 0.1s ease-in;
+}
+
+.list-group-item.active {
+  background-color: $brand-primary;
+  border-color: $brand-primary;
+}

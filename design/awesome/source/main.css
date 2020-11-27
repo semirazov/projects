@@ -1,0 +1,71 @@
+body {
+  font-size: 16px;
+  display: flex;
+  margin: 40px 0;
+  font-family: "Quicksand", sans-serif;
+}
+body aside {
+  flex: 1;
+  padding: 30px;
+}
+body main {
+  flex: 5;
+  padding-left: 15px;
+  padding-top: 30px;
+}
+
+ul {
+  list-style: none;
+}
+
+section h3 {
+  font-size: 10px;
+  color: #999999;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+section h2 {
+  font-size: 21px;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  margin-bottom: 40px;
+}
+
+.items-list .item {
+  margin-bottom: 20px;
+  display: flex;
+}
+.items-list .item .image-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.03);
+  width: 100px;
+  height: 100px;
+}
+.items-list .item .image-wrapper i {
+  color: #F75940;
+  font-size: 35px;
+}
+.items-list .item .title {
+  font-weight: 500;
+  margin-bottom: 20px;
+  font-size: 14px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+.items-list .item .text-content {
+  padding-left: 15px;
+}
+
+@media (max-width: 768px) {
+  aside {
+    display: none;
+  }
+
+  .items-list {
+    padding-left: 0;
+  }
+}
+
+/*# sourceMappingURL=main.css.map */

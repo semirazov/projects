@@ -1,0 +1,606 @@
+<mjml>
+  <mj-head>
+    <mj-title>Discount Light</mj-title>
+    <mj-preview>Pre-header Text</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500"></mj-font>
+    <mj-attributes>
+      <mj-all font-weight="400" letter-spacing="0.2px" font-family="Roboto, 'Helvetica Neue', Helvetica, sans-serif"></mj-all>
+      <mj-text font-weight="400" letter-spacing="0.2px" font-size="16px" color="#000000" line-height="22px" padding-bottom="5px"></mj-text>
+      <mj-class name="title" font-size="20px" />
+      <mj-class name="muted" font-size="16px" color="#333333" />
+      <mj-column padding="0" />
+      <mj-section padding="0" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      a:visited {
+        color: #6633cc;
+      }
+
+      strong {
+        font-weight: 600;
+      }
+
+      .card-header tr {
+        color: white;
+      }
+
+      .card-header td:first-child {
+        width: 24px;
+      }
+
+      .card-header td:nth-child(2) {
+        padding-left: 15px
+      }
+
+      .card-header td:last-child {
+        text-align: right;
+        white-space: nowrap;
+      }
+
+      .card-body {
+        padding: 0;
+        background: white;
+      }
+
+      .icon-text {
+        padding: 0 !important;
+        font-size: 16px;
+      }
+
+      .icon-text td {
+        padding: 5px 5px;
+        line-height: 22px
+      }
+
+      .icon-text td:first-child {
+        vertical-align: top;
+        width: 35px;
+      }
+
+      .body-section {
+        -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+        box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      }
+
+      .legend td:first-child {
+        color: #6633cc;
+        width: 80px;
+      }
+    </mj-style>
+    <mj-style>
+      .spacer{
+      height: 30px !important;
+      }
+
+      .container > table > tbody > tr > td {
+      padding: 30px 40px !important
+      }
+
+      @media (max-width:479px) {
+      .container > table > tbody > tr > td {
+      padding: 15px !important
+      }
+
+      .spacer{
+      height: 15px !important;
+      }
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#fff" width="680px">
+    <mj-section background-color="#6633cc">
+      <mj-group>
+        <mj-column padding="0">
+          <mj-text mj-class="title" font-size="24px" line-height="45px" color="#fff">Advisor</mj-text>
+        </mj-column>
+        <mj-column>
+          <mj-image src="logo_light.png" width="150px" align="right" padding="10px" padding-bottom="0" />
+        </mj-column>
+      </mj-group>
+
+    </mj-section>
+    <mj-section background-color="#fbfbfb">
+      <mj-column>
+        <mj-text>Friday, July 17h</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-wrapper background-color="#e7e7e7" css-class="container">
+
+      <mj-section background-color="#ffffff" padding="0">
+        <mj-column padding-top="10px" padding-bottom="10px">
+          <mj-text>Good Morning <b>John Dou</b>,</mj-text>
+          <mj-text>Our models detected <b>23</b> anomalies across managed locations. Please see the list of action items below for details such as priority and steps to take in <b>System Name</b>.</mj-text>
+          <mj-text>Sincerely, <br />Predion Team</mj-text>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-raw>
+        <div class="spacer"></div>
+      </mj-raw>
+
+      <mj-section padding-top="0" padding-bottom="0" css-class="body-section">
+        <mj-column width="100%" background-color="#6633cc" padding="7px 15px">
+          <mj-table css-class="card-header" font-size="18px" padding="0">
+            <tr>
+              <td><img src="location.png" /></td>
+              <td>East Garden</td>
+              <td> &#9679; &#9679; &#9679; &#9679;</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+
+        <mj-column css-class="card-body" width="100%" padding="7px 15px">
+          <mj-table css-class="icon-text" font-size="16px">
+            <tr>
+              <td>
+                <img src="calendar.png" width="24px" />
+              </td>
+              <td> <strong>07/31 - 08/05</strong></td>
+            </tr>
+          </mj-table>
+
+          <mj-table css-class="icon-text" font-size="16px" padding="0">
+            <tr>
+              <td>
+                <img src="tools.png" width="24px" padding="0" />
+              </td>
+              <td> Review customer interactions. It's a very urgent task. You have to do it as quickly as possible</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-raw>
+        <div class="spacer"></div>
+      </mj-raw>
+
+
+      <mj-section padding-top="0" padding-bottom="0" css-class="body-section">
+        <mj-column width="100%" background-color="#6633cc" padding="7px 15px">
+          <mj-table css-class="card-header" font-size="18px" padding="0">
+            <tr>
+              <td><img src="location.png" /></td>
+              <td>Richmond, VA 23230</td>
+              <td> &#9679; &#9679; &#9679; &#9679;</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+
+        <mj-column css-class="card-body" width="100%" padding="10px 15px">
+          <mj-table css-class="icon-text" font-size="16px">
+            <tr>
+              <td>
+                <img src="calendar.png" width="24px" />
+              </td>
+              <td> <strong>07/12 - 07/24</strong></td>
+            </tr>
+          </mj-table>
+
+          <mj-table css-class="icon-text" font-size="16px" padding="0">
+            <tr>
+              <td>
+                <img src="tools.png" width="24px" padding="0" />
+              </td>
+              <td>Compete price change. Less urgent task</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+
+      <mj-raw>
+        <div class="spacer"></div>
+      </mj-raw>
+
+      <mj-section padding-top="0" padding-bottom="0" css-class="body-section">
+        <mj-column width="100%" background-color="#6633cc" padding="7px 15px">
+          <mj-table css-class="card-header" font-size="18px" padding="0">
+            <tr>
+              <td><img src="location.png" /></td>
+              <td>East Wenatchee, WA 98802</td>
+              <td> &#9679; &#9679; &#9679; &#9679;</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+
+        <mj-column css-class="card-body" width="100%" padding="10px 15px">
+          <mj-table css-class="icon-text" font-size="16px">
+            <tr>
+              <td>
+                <img src="calendar.png" width="24px" />
+              </td>
+              <td> <strong>07/12 - 07/24</strong></td>
+            </tr>
+          </mj-table>
+
+          <mj-table css-class="icon-text" font-size="16px" padding="0">
+            <tr>
+              <td>
+                <img src="tools.png" width="24px" padding="0" />
+              </td>
+              <td>Unusual demand. We found an unusual corellation in database. Please, pay attention.</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+
+<mj-raw>
+        <div class="spacer"></div>
+      </mj-raw>
+
+      <mj-section padding-top="0" padding-bottom="0" css-class="body-section">
+        <mj-column width="100%" background-color="#6633cc" padding="7px 15px">
+          <mj-table css-class="card-header" font-size="18px" padding="0">
+            <tr>
+              <td><img src="location.png" /></td>
+              <td>East Garden</td>
+              <td> &#9679; &#9679; &#9679;</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+
+        <mj-column css-class="card-body" width="100%" padding="7px 15px">
+          <mj-table css-class="icon-text" font-size="16px">
+            <tr>
+              <td>
+                <img src="calendar.png" width="24px" />
+              </td>
+              <td> <strong>07/31 - 08/05</strong></td>
+            </tr>
+          </mj-table>
+
+          <mj-table css-class="icon-text" font-size="16px" padding="0">
+            <tr>
+              <td>
+                <img src="tools.png" width="24px" padding="0" />
+              </td>
+              <td> Review customer interactions. It's a very urgent task. You have to do it as quickly as possible</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-raw>
+        <div class="spacer"></div>
+      </mj-raw>
+
+
+      <mj-section padding-top="0" padding-bottom="0" css-class="body-section">
+        <mj-column width="100%" background-color="#6633cc" padding="7px 15px">
+          <mj-table css-class="card-header" font-size="18px" padding="0">
+            <tr>
+              <td><img src="location.png" /></td>
+              <td>Richmond, VA 23230</td>
+              <td> &#9679; &#9679; &#9679;</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+
+        <mj-column css-class="card-body" width="100%" padding="10px 15px">
+          <mj-table css-class="icon-text" font-size="16px">
+            <tr>
+              <td>
+                <img src="calendar.png" width="24px" />
+              </td>
+              <td> <strong>07/12 - 07/24</strong></td>
+            </tr>
+          </mj-table>
+
+          <mj-table css-class="icon-text" font-size="16px" padding="0">
+            <tr>
+              <td>
+                <img src="tools.png" width="24px" padding="0" />
+              </td>
+              <td>Compete price change. Less urgent task</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+
+      <mj-raw>
+        <div class="spacer"></div>
+      </mj-raw>
+
+      <mj-section padding-top="0" padding-bottom="0" css-class="body-section">
+        <mj-column width="100%" background-color="#6633cc" padding="7px 15px">
+          <mj-table css-class="card-header" font-size="18px" padding="0">
+            <tr>
+              <td><img src="location.png" /></td>
+              <td>East Wenatchee, WA 98802</td>
+              <td> &#9679; &#9679; &#9679;</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+
+        <mj-column css-class="card-body" width="100%" padding="10px 15px">
+          <mj-table css-class="icon-text" font-size="16px">
+            <tr>
+              <td>
+                <img src="calendar.png" width="24px" />
+              </td>
+              <td> <strong>07/12 - 07/24</strong></td>
+            </tr>
+          </mj-table>
+
+          <mj-table css-class="icon-text" font-size="16px" padding="0">
+            <tr>
+              <td>
+                <img src="tools.png" width="24px" padding="0" />
+              </td>
+              <td>Unusual demand. We found an unusual corellation in database. Please, pay attention.</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+
+      <mj-raw>
+        <div class="spacer"></div>
+      </mj-raw>
+
+      <mj-section padding-top="0" padding-bottom="0" css-class="body-section">
+        <mj-column width="100%" background-color="#6633cc" padding="7px 15px">
+          <mj-table css-class="card-header" font-size="18px" padding="0">
+            <tr>
+              <td><img src="location.png" /></td>
+              <td>East Garden</td>
+              <td> &#9679; &#9679; &#9679;</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+
+        <mj-column css-class="card-body" width="100%" padding="7px 15px">
+          <mj-table css-class="icon-text" font-size="16px">
+            <tr>
+              <td>
+                <img src="calendar.png" width="24px" />
+              </td>
+              <td> <strong>07/31 - 08/05</strong></td>
+            </tr>
+          </mj-table>
+
+          <mj-table css-class="icon-text" font-size="16px" padding="0">
+            <tr>
+              <td>
+                <img src="tools.png" width="24px" padding="0" />
+              </td>
+              <td> Review customer interactions. It's a very urgent task. You have to do it as quickly as possible</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-raw>
+        <div class="spacer"></div>
+      </mj-raw>
+
+
+      <mj-section padding-top="0" padding-bottom="0" css-class="body-section">
+        <mj-column width="100%" background-color="#6633cc" padding="7px 15px">
+          <mj-table css-class="card-header" font-size="18px" padding="0">
+            <tr>
+              <td><img src="location.png" /></td>
+              <td>Richmond, VA 23230</td>
+              <td> &#9679; &#9679;</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+
+        <mj-column css-class="card-body" width="100%" padding="10px 15px">
+          <mj-table css-class="icon-text" font-size="16px">
+            <tr>
+              <td>
+                <img src="calendar.png" width="24px" />
+              </td>
+              <td> <strong>07/12 - 07/24</strong></td>
+            </tr>
+          </mj-table>
+
+          <mj-table css-class="icon-text" font-size="16px" padding="0">
+            <tr>
+              <td>
+                <img src="tools.png" width="24px" padding="0" />
+              </td>
+              <td>Compete price change. Less urgent task</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+
+      <mj-raw>
+        <div class="spacer"></div>
+      </mj-raw>
+
+      <mj-section padding-top="0" padding-bottom="0" css-class="body-section">
+        <mj-column width="100%" background-color="#6633cc" padding="7px 15px">
+          <mj-table css-class="card-header" font-size="18px" padding="0">
+            <tr>
+              <td><img src="location.png" /></td>
+              <td>East Wenatchee, WA 98802</td>
+              <td> &#9679; &#9679;</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+
+        <mj-column css-class="card-body" width="100%" padding="10px 15px">
+          <mj-table css-class="icon-text" font-size="16px">
+            <tr>
+              <td>
+                <img src="calendar.png" width="24px" />
+              </td>
+              <td> <strong>07/12 - 07/24</strong></td>
+            </tr>
+          </mj-table>
+
+          <mj-table css-class="icon-text" font-size="16px" padding="0">
+            <tr>
+              <td>
+                <img src="tools.png" width="24px" padding="0" />
+              </td>
+              <td>Unusual demand. We found an unusual corellation in database. Please, pay attention.</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+
+      <mj-raw>
+        <div class="spacer"></div>
+      </mj-raw>
+
+      <mj-section padding-top="0" padding-bottom="0" css-class="body-section">
+        <mj-column width="100%" background-color="#6633cc" padding="7px 15px">
+          <mj-table css-class="card-header" font-size="18px" padding="0">
+            <tr>
+              <td><img src="location.png" /></td>
+              <td>East Garden</td>
+              <td> &#9679; &#9679;</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+
+        <mj-column css-class="card-body" width="100%" padding="7px 15px">
+          <mj-table css-class="icon-text" font-size="16px">
+            <tr>
+              <td>
+                <img src="calendar.png" width="24px" />
+              </td>
+              <td> <strong>07/31 - 08/05</strong></td>
+            </tr>
+          </mj-table>
+
+          <mj-table css-class="icon-text" font-size="16px" padding="0">
+            <tr>
+              <td>
+                <img src="tools.png" width="24px" padding="0" />
+              </td>
+              <td> Review customer interactions. It's a very urgent task. You have to do it as quickly as possible</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+
+
+      <mj-raw>
+        <div class="spacer"></div>
+      </mj-raw>
+
+
+      <mj-section padding-top="0" padding-bottom="0" css-class="body-section">
+        <mj-column width="100%" background-color="#6633cc" padding="7px 15px">
+          <mj-table css-class="card-header" font-size="18px" padding="0">
+            <tr>
+              <td><img src="location.png" /></td>
+              <td>Richmond, VA 23230</td>
+              <td> &#9679;</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+
+        <mj-column css-class="card-body" width="100%" padding="10px 15px">
+          <mj-table css-class="icon-text" font-size="16px">
+            <tr>
+              <td>
+                <img src="calendar.png" width="24px" />
+              </td>
+              <td> <strong>07/12 - 07/24</strong></td>
+            </tr>
+          </mj-table>
+
+          <mj-table css-class="icon-text" font-size="16px" padding="0">
+            <tr>
+              <td>
+                <img src="tools.png" width="24px" padding="0" />
+              </td>
+              <td>Compete price change. Less urgent task</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+
+      <mj-raw>
+        <div class="spacer"></div>
+      </mj-raw>
+
+      <mj-section padding-top="0" padding-bottom="0" css-class="body-section">
+        <mj-column width="100%" background-color="#6633cc" padding="7px 15px">
+          <mj-table css-class="card-header" font-size="18px" padding="0">
+            <tr>
+              <td><img src="location.png" /></td>
+              <td>East Wenatchee, WA 98802</td>
+              <td> &#9679;</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+
+        <mj-column css-class="card-body" width="100%" padding="10px 15px">
+          <mj-table css-class="icon-text" font-size="16px">
+            <tr>
+              <td>
+                <img src="calendar.png" width="24px" />
+              </td>
+              <td> <strong>07/12 - 07/24</strong></td>
+            </tr>
+          </mj-table>
+
+          <mj-table css-class="icon-text" font-size="16px" padding="0">
+            <tr>
+              <td>
+                <img src="tools.png" width="24px" padding="0" />
+              </td>
+              <td>Unusual demand. We found an unusual corellation in database. Please, pay attention.</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+
+      
+    
+
+
+      <mj-section css-class="legend-wrapper" text-align="right" padding-top="15px" padding-bottom="13px">
+        <mj-column width="230px">
+          <mj-table css-class="legend">
+            <tr>
+
+              <td>&#9679; &#9679; &#9679; &#9679;</td>
+              <td>Urgent</td>
+            </tr>
+            <tr>
+
+              <td>&#9679; &#9679; &#9679;</td>
+              <td>High priority</td>
+            </tr>
+            <tr>
+
+              <td>&#9679; &#9679;</td>
+              <td>Medium priority</td>
+            </tr>
+            <tr>
+              <td>&#9679;</td>
+              <td>Low priority</td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+
+
+ 
+
+      <mj-section>
+        <mj-column width="100%">
+          <mj-divider border-color="#ccc" border-width="3px" padding="0" padding-bottom="20px" />
+        </mj-column>
+        <mj-column>
+          <mj-image src="logo.png" width="150px" padding-bottom="10px" align="center" />
+          <mj-text mj-class="muted" align="center" padding-bottom="0" padding-top="0">A Foundry.ai company</mj-text>
+          <mj-text mj-class="muted" align="center" padding-top="0">©2020 Predion.ai</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

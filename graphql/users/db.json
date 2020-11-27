@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": "3",
+      "firstName": "Danil",
+      "age": 26,
+      "companyId": "2"
+    },
+    {
+      "firstName": "Lera",
+      "age": 18,
+      "id": "9f0NdTJ"
+    },
+    {
+      "firstName": "Lera",
+      "age": 18,
+      "id": "NsWvmWp"
+    },
+    {
+      "firstName": "Lera",
+      "age": 18,
+      "id": "YPlzHzx"
+    },
+    {
+      "firstName": "Lera",
+      "age": 18,
+      "id": "r2i0ICH"
+    },
+    {
+      "firstName": "Lera",
+      "age": 18,
+      "id": "p-wr6xq"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "IPhone"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "Search"
+    }
+  ]
+}
